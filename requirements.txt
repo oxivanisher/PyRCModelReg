@@ -1,0 +1,3 @@
+Flask==0.12.0
+Flask-OAuthlib==0.9.3
+Flask-QRcode==0.10.0
